@@ -1,1 +1,10 @@
+# Site settings
+title: Naveen Aechan
+description: Hey Folks! This is Naveen Aechan. 
+baseurl: "" # leave it empty for GitHub Pages, or specify a subdirectory if hosting on a custom domain
 
+# Theme settings
+theme: minima # replace "jekyll-theme-name" with the name of the Jekyll theme you want to use
+
+# Build settings
+markdown: kramdown
